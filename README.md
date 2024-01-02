@@ -1,30 +1,27 @@
-<h1 align="center">Hi 👋, I'm Dipankar Baruah</h1>
-<h3 align="center">I am a cybersecurity enthusiast from India with a focus on comprehensive security solutions, ranging from network protection to application security. Well-versed in identifying and mitigating cyber threats, my skills span various areas of cybersecurity. From secure coding practices to threat detection and incident response, I am dedicated to ensuring robust defense mechanisms. Eager to contribute my expertise to safeguarding digital assets, I continually seek to expand my knowledge in emerging cybersecurity technologies. As a cybersecurity student, I am committed to staying ahead of the evolving threat landscape, enhancing my skills, and actively contributing to creating a secure digital environment.</h3>
+# 💫 About Me:
+I am a cybersecurity enthusiast from India with a focus on comprehensive security solutions, ranging from network protection to  application security.<br>🔭 I’m currently working on my Bachelor's degree<br>👯 I’m looking to collaborate on Cybersecurity projects<br>🌱 I’m currently learning CompTIA Security+, CISSP<br>💬 Ask me about CTF(Capture the Flag), Linux, Networks, Cryptography, Cloud Computing related questions.<br>⚡ Fun fact I once hacked into my own Wi-Fi network just to test its security, and ended up boosting its defenses instead! 🔒🔎
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankar20-02&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar20-02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipankar20-02" alt="dipankar20-02" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david_.20.02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipankar-baruah-22b103262?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjqbTeiGoQQOHu%2BGXQkJeOA%3D%3D) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dipankar_b20) 
 
-<p align="left"> <a href="https://twitter.com/dipankar_b20" target="blank"><img src="https://img.shields.io/twitter/follow/dipankar_b20?logo=twitter&style=for-the-badge" alt="dipankar_b20" /></a> </p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dipankar20-02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dipankar20-02&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar20-02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **Cybersecurity projects**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-- 💬 Ask me about **CTF(Capture the Flag), Linux, Networks, Cryptography, Cloud Computing related questions.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dipankar20-02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact **I once hacked into my own Wi-Fi network just to test its security, and ended up boosting its defenses instead! 🔒🔎**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dipankar_b20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipankar_b20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dipankar-baruah-22b103262?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bgelkxkjjqxwdxrofmhetig%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipankar-baruah-22b103262?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bgelkxkjjqxwdxrofmhetig%3d%3d" height="30" width="40" /></a>
-<a href="https://instagram.com/david_.20.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david_.20.02" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=dipankar20-02&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipankar20-02&show_icons=true&locale=en&layout=compact" alt="dipankar20-02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipankar20-02&show_icons=true&locale=en" alt="dipankar20-02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar20-02&" alt="dipankar20-02" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
